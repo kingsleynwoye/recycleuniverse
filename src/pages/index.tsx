@@ -27,7 +27,7 @@ export default function Home() {
             alt="Brand"
             width={500}
             height={500}
-            className="w-[80%] md:w-[50%]"
+            className="w-[80%] bg-cover"
           />
         </section>
         {/* Lists */}
